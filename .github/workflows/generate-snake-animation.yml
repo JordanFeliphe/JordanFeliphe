@@ -1,0 +1,22 @@
+name: Generate Snake Animation
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *" # Configura o cron para gerar a animação diariamente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@v2
+        with:
+          github_user_name: JordanFeliphe
+          outputs: dist/snake.svg
+      - uses: crazy-max/ghaction-github-pages@v2
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
