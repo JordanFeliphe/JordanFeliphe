@@ -18,9 +18,9 @@
   <tr>
     <!-- Coluna das Estatísticas -->
     <td style="width: 55%; vertical-align: top;">
-      <div align="center" style="display: flex; flex-direction: column;;">
-        <img src="https://github-readme-stats.vercel.app/api?username=JordanFeliphe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" width="100%" height="250px" alt="Estatísticas do GitHub" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JordanFeliphe&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="100%" height="220px" alt="Linguagens mais usadas" />
+      <div align="center" style="display: flex; flex-direction: column; align-items: flex-start; margin: 0; padding: 0;">
+        <img src="https://github-readme-stats.vercel.app/api?username=JordanFeliphe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" width="100%" height="250px" alt="Estatísticas do GitHub" style="margin-bottom: 0;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JordanFeliphe&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="100%" height="220px" alt="Linguagens mais usadas" style="margin-top: -5px;" />
       </div>
     </td>
     <!-- Coluna do GIF -->
