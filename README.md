@@ -22,6 +22,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JordanFeliphe/JordanFeliphe/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JordanFeliphe/JordanFeliphe/output/github-contribution-grid-snake-dark.svg">
-    <img width="100%" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/JordanFeliphe/JordanFeliphe/output/github-contribution-grid-snake.svg" style="border: 2px solid black;">
+    <img width="100%" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/JordanFeliphe/JordanFeliphe/output/github-contribution-grid-snake.svg" style="border: 2px solid white;">
   </picture>
 </div>
