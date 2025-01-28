@@ -17,8 +17,8 @@
 <table align="center" style="border-spacing: 20px; width: 100%;">
   <tr>
     <!-- Coluna das Estatísticas -->
-    <td style="width: 10%; vertical-align: top; height: 70%;">
-      <div align="center" style="display: flex; flex-direction: column; justify-content: space-between; height: 100%;">
+    <td style="width: 55%; vertical-align: top;">
+      <div align="center" style="display: flex; flex-direction: column; gap: 10px;">
         <img src="https://github-readme-stats.vercel.app/api?username=JordanFeliphe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" width="100%" height="250px" alt="Estatísticas do GitHub" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JordanFeliphe&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="100%" height="220px" alt="Linguagens mais usadas" />
       </div>
