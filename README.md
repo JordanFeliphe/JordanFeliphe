@@ -1,4 +1,4 @@
-<h2 align="left">E aí, eu sou o Jordan Feliphe! 👋</h2>
+<h1 align="center">E aí, eu sou o Jordan Feliphe! 👋</h1>
 
 ###
 
@@ -22,8 +22,10 @@
     </td>
   </tr>
 </table>
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JordanFeliphe/JordanFeliphe/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JordanFeliphe/JordanFeliphe/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/JordanFeliphe/JordanFeliphe/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JordanFeliphe/JordanFeliphe/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JordanFeliphe/JordanFeliphe/output/github-contribution-grid-snake-dark.svg">
+    <img width="80%" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/JordanFeliphe/JordanFeliphe/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
