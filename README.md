@@ -14,7 +14,7 @@
 
 ###
 
-<table align="center" style="border-spacing: 20px; width: 100%;">
+<table align="center" style="border-spacing: 20px; width: 50%;">
   <tr>
     <!-- Coluna das Estatísticas -->
     <td style="width: 55%; vertical-align: top;">
