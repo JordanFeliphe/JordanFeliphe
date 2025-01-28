@@ -1,9 +1,15 @@
-<h1 align="center" style="font-size: 24px;">E aí, eu sou o Jordan Feliphe! 👋</h1>
+<h1 align="center" style="font-size: 24px;">E aí, eu sou o Jordan Feliphe!</h1>
 
 <table align="center" style="border-spacing: 5px; width: 70%; border: 2px solid black;">
   <tr>
     <td style="width: 30%; vertical-align: top; border: 2px solid black;">
       <div align="center" style="display: flex; flex-direction: column; align-items: center; margin: 0; padding: 0; width: 100%;">
+        <div style="display: flex; justify-content: center; gap: 8px; padding: 10px 0; width: 100%;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
+        </div>
         <div style="width: 100%; height: 200px; border: 2px solid black;">
           <img src="https://github-readme-stats.vercel.app/api?username=JordanFeliphe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" width="100%" height="100%" alt="Estatísticas do GitHub" style="padding: 0;" />
         </div>
