@@ -17,7 +17,7 @@
 <table align="center" style="border-spacing: 20px; width: 100%;">
   <tr>
     <!-- Coluna das Estatísticas -->
-    <td style="width: 90%; vertical-align: top; height: 450px;">
+    <td style="width: 55%; vertical-align: top; height: 70%;">
       <div align="center" style="display: flex; flex-direction: column; justify-content: space-between; height: 100%;">
         <img src="https://github-readme-stats.vercel.app/api?username=JordanFeliphe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" width="95%" height="220px" alt="Estatísticas do GitHub" />
         <br>
