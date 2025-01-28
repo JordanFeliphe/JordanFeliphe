@@ -14,28 +14,21 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JordanFeliphe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="Estatísticas do GitHub"  />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JordanFeliphe&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Linguagens mais usadas"  />
-</div>
-
-
-###
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700" alt="Coding GIF">
-</div>
-<br><br>
-
-###
-
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=JordanFeliphe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="180" alt="Estatísticas do GitHub" />
+      <br><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JordanFeliphe&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="Linguagens mais usadas" />
+    </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" alt="Coding GIF">
+    </td>
+  </tr>
+</table>
 
 ###
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JordanFeliphe/JordanFeliphe/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JordanFeliphe/JordanFeliphe/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/JordanFeliphe/JordanFeliphe/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JordanFeliphe/JordanFeliphe/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation">
+</p>
