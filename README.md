@@ -1,6 +1,6 @@
 <h1 align="center" style="font-size: 24px;">E aí, eu sou o Jordan Feliphe! 👋</h1>
 
-<table align="center" style="border-spacing: 5px; width: 70%;">
+<table align="center"; width: 70%;">
   <tr>
     <td style="width: 30%; vertical-align: top;">
       <div align="center" style="display: flex; flex-direction: column; align-items: center; margin: 0; padding: 0; width: 100%;">
