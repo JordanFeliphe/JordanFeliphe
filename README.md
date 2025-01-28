@@ -3,9 +3,13 @@
 <table align="center" style="border-spacing: 5px; width: 70%;">
   <tr>
     <td style="width: 30%; vertical-align: top;">
-      <div align="center" style="display: flex; flex-direction: column; align-items: center; margin: 0; padding: 0;">
-        <img src="https://github-readme-stats.vercel.app/api?username=JordanFeliphe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" width="100%" height="180px" alt="Estatísticas do GitHub" style="margin-bottom: 5px; padding: 0;" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JordanFeliphe&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="100%" height="180px" alt="Linguagens mais usadas" style="margin-top: 5px; padding: 0;" />
+      <div align="center" style="display: flex; flex-direction: column; align-items: center; margin: 0; padding: 0; width: 100%;">
+        <div style="width: 100%; height: 200px;">
+          <img src="https://github-readme-stats.vercel.app/api?username=JordanFeliphe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" width="100%" height="100%" alt="Estatísticas do GitHub" style="padding: 0;" />
+        </div>
+        <div style="width: 100%; height: 200px; margin-top: 5px;">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JordanFeliphe&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="100%" height="100%" alt="Linguagens mais usadas" style="padding: 0;" />
+        </div>
       </div>
     </td>
     <td style="width: 70%; vertical-align: top; text-align: center;">
